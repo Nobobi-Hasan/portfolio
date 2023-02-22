@@ -25,7 +25,7 @@
 
     <div class="container flex items-center justify-between h-20">
 
-        <div class="relative z-30 flex items-center gap-2 mb-2 lg:mb-3 -translate-x-[5%] md:-translate-x-[10%] lg:-translate-x-[15%]">
+        <div class="relative z-30 flex items-center gap-2 mb-2 lg:mb-3">
             <h1 class="text-gray-500 font-bold text-2xl md:text-3xl lg:text-4xl uppercase">Md. <span class="text-white">Nabobi</span> Hasan</h1>
         </div>
 
