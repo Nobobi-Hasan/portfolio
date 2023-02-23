@@ -23,10 +23,10 @@
 
   <nav ref="navbar" class="fixed top-0 left-0 w-full bg-black z-20 transition duration-200">
 
-    <div class="container flex items-center justify-between h-20">
+    <div class="container overflow-x-hidden flex items-center justify-between h-20">
 
-        <div class="relative z-30 flex items-center gap-2 mb-2 lg:mb-3">
-            <h1 class="text-gray-500 font-bold text-2xl md:text-3xl lg:text-4xl uppercase">Md. <span class="text-white">Nabobi</span> Hasan</h1>
+        <div class="relative z-30 flex items-center gap-2 lg:mb-3">
+            <h1 class="text-gray-500 font-bold text-xl md:text-2xl lg:text-3xl uppercase">Md. <span class="text-white">Nabobi</span> Hasan</h1>
         </div>
 
         <div class="flex lg:hidden items-center gap-2 ">

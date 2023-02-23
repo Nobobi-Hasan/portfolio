@@ -14,7 +14,12 @@ module.exports = {
         lg: '4rem',
       }
     },
-    extend: {},
+    extend: {
+      colors: {
+        silver: '#BDBDBD',
+        highlight: '#70FF00'
+      }
+    },
   },
   plugins: [],
 }

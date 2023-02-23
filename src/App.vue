@@ -1,7 +1,9 @@
 <template>
 
-    <div class="container overflow-x-hidden">
+    <!-- <div class="container overflow-x-hidden"> -->
+    <div class=" ">
         <Navbar/>
+        <About/>
 
     </div>
 
@@ -14,5 +16,5 @@
 <script setup>
 
 import Navbar from './components/Navbar.vue';
-
+import About from './components/About.vue';
 </script>
