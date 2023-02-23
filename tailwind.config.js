@@ -16,7 +16,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        silver: '#BDBDBD',
+        silver: '#222222',
+        dark: '#121212',
+        skill: '#1c1c1c',
         highlight: '#70FF00'
       }
     },

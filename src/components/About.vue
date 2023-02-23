@@ -1,7 +1,7 @@
 <template>
 
-    <section id="about" class="grid place-items-center pt-28 mt-20 overflow-hidden bg-black">
-        <div class="container overflow-x-hidden">
+    <section id="about" class=" pt-28 mt-20 overflow-hidden bg-silver">
+        <div class="grid place-items-center container overflow-x-hidden">
 
             <div class=" grid grid-flow-row-dense grid-cols-1 lg:grid-cols-2 items-start gap-20 lg:gap-16 w-full px-0 lg:px-10">
 

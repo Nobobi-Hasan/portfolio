@@ -4,6 +4,7 @@
     <div class=" ">
         <Navbar/>
         <About/>
+        <Skill/>
 
     </div>
 
@@ -17,4 +18,5 @@
 
 import Navbar from './components/Navbar.vue';
 import About from './components/About.vue';
+import Skill from './components/Skill.vue';
 </script>

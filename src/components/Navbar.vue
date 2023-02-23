@@ -8,10 +8,12 @@
     onMounted(() => {
         window.onscroll = () =>{
             if(window.scrollY === 0){
-                navbar.value.classList.remove()
+                navbar.value.classList.remove('bg-dark')
+                navbar.value.classList.add('bg-silver')
             }
             else{
-                navbar.value.classList.add('bg-black-200')
+                navbar.value.classList.remove('bg-silver')
+                navbar.value.classList.add('bg-dark')
             }
         }
     })
@@ -21,7 +23,7 @@
 
 <template>
 
-  <nav ref="navbar" class="fixed top-0 left-0 w-full bg-black z-20 transition duration-200">
+  <nav ref="navbar" class="fixed top-0 left-0 w-full bg-silver z-20 transition duration-200">
 
     <div class="container overflow-x-hidden flex items-center justify-between h-20">
 
